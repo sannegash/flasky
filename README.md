@@ -1,1 +1,2 @@
-# Learn flask in 48 hours and build a full stack website challenge
+Learning flask by building a Full Stack blog website
+
